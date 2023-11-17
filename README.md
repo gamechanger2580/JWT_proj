@@ -1,5 +1,3 @@
-!!!!! UNDER PRODUCTION !!!!!!
-
 This is an Authentication based site like only Login , Signup and forget and reset password is done through Emails.
 NextJS is used to implement this project.
 
