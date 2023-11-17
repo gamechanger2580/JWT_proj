@@ -1,0 +1,4 @@
+ frontend works on page and app contains both the frontend and the backend part
+ create a folder for every single route   
+app ke andar is api for backend 
+api ke andar we have to create users ka folder which will be like /api/users and then uske andar route.ts not tsx as its not a component
